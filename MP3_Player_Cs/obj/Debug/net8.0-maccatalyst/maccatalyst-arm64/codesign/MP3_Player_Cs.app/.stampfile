@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/eazyyz/Projects/MP3_Player_Cs/MP3_Player_Cs/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/eazyyz/Projects/MP3_Player_Cs/MP3_Player_Cs/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/MP3_Player_Cs.app
