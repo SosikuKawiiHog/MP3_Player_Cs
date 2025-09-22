@@ -12,9 +12,73 @@
 		<data>
 		P/r8Qwe4zUcJIlVgiAeKCNFqMwo=
 		</data>
+		<key>Resources/Images/button_play.png</key>
+		<data>
+		tjtkbpzF+j9aIb5ysJy6GtV41zY=
+		</data>
+		<key>Resources/Images/button_play.svg</key>
+		<data>
+		/87dW1+uJVC1U42sXRasuAd5pzg=
+		</data>
+		<key>Resources/Images/button_play_on_pause.svg</key>
+		<data>
+		b7EzP3RCtKpUU4Y3r5LcfZnXiSs=
+		</data>
+		<key>Resources/Images/button_play_pause.png</key>
+		<data>
+		j8ad8OeIAIz4CoQfS/JTAhYJImg=
+		</data>
+		<key>Resources/Images/full_screen.png</key>
+		<data>
+		aTj6JjxG4ZEX2umYmFaSutyfVeQ=
+		</data>
+		<key>Resources/Images/full_screen.svg</key>
+		<data>
+		eUSEKY4zcGFirdFFN/HSpogqg0w=
+		</data>
+		<key>Resources/Images/next_track.png</key>
+		<data>
+		XCHOSc1EJg98+1DNzI65nTGJbtA=
+		</data>
+		<key>Resources/Images/next_track.svg</key>
+		<data>
+		ff11T5FpankZG2i2FX0RkrK0kwc=
+		</data>
+		<key>Resources/Images/prev_track.png</key>
+		<data>
+		gOeH27GKd+8oZIRvhEYTFWwrkKo=
+		</data>
+		<key>Resources/Images/prev_track.svg</key>
+		<data>
+		iF0SWh0YLYXJ0r2O8fXlKZ3rA/o=
+		</data>
+		<key>Resources/Images/repeat.png</key>
+		<data>
+		rsTcBD9gOsNvIg9/6RbrIwr4Tkk=
+		</data>
+		<key>Resources/Images/repeat.svg</key>
+		<data>
+		p6F1/5lIX47i+c0z6eifkLKKE0g=
+		</data>
+		<key>Resources/Images/shuffle.png</key>
+		<data>
+		i1YFAjCk6KV+2gBonvUEe0K0ttQ=
+		</data>
+		<key>Resources/Images/shuffle.svg</key>
+		<data>
+		MErX6U0GNUrjE8g2Ig4y9VOFMkw=
+		</data>
 		<key>Resources/Images/swag.png</key>
 		<data>
 		i/DoFKFX5IJDsAWqaNEEUgmafwo=
+		</data>
+		<key>Resources/Images/volume_icon.png</key>
+		<data>
+		TH9hEqfmjQrrkyO8UJMv3Q/ng5E=
+		</data>
+		<key>Resources/Images/volume_icon.svg</key>
+		<data>
+		tZ0/gttA9KmCR7HovfkZPuvcjiA=
 		</data>
 		<key>Resources/MauiInfo.plist</key>
 		<data>
@@ -36,6 +100,34 @@
 		<data>
 		xApZJXqfXkr1Mq6aQgZg8CzB6/E=
 		</data>
+		<key>Resources/button_play.png</key>
+		<data>
+		tjtkbpzF+j9aIb5ysJy6GtV41zY=
+		</data>
+		<key>Resources/button_play@2x.png</key>
+		<data>
+		R9MdCXeLXvPPAQm/gjabOkLvCg0=
+		</data>
+		<key>Resources/button_play@3x.png</key>
+		<data>
+		x9g6eNIRheKPWJSy3IrauBK/0Os=
+		</data>
+		<key>Resources/button_play_on_pause.png</key>
+		<data>
+		Tj0zeMNEuUO7x6Zt+WUzIff+cPc=
+		</data>
+		<key>Resources/button_play_on_pause@2x.png</key>
+		<data>
+		9uprXk//2uBuDuJadzq9URBCSwc=
+		</data>
+		<key>Resources/button_play_on_pause@3x.png</key>
+		<data>
+		WFcT9fVEu7haHkD7Fx6Bw9gQ/tY=
+		</data>
+		<key>Resources/button_play_pause.png</key>
+		<data>
+		j8ad8OeIAIz4CoQfS/JTAhYJImg=
+		</data>
 		<key>Resources/dotnet_bot.png</key>
 		<data>
 		zpXnLSzSJw/k9PLyd7V9FWWnJPY=
@@ -48,9 +140,81 @@
 		<data>
 		ZavBRK6gzdv0u+OYAINxznb1lzE=
 		</data>
+		<key>Resources/full_screen.png</key>
+		<data>
+		aTj6JjxG4ZEX2umYmFaSutyfVeQ=
+		</data>
+		<key>Resources/full_screen@2x.png</key>
+		<data>
+		xuqW7Xf9w2xr5DrS9wtVkWGpBtg=
+		</data>
+		<key>Resources/full_screen@3x.png</key>
+		<data>
+		4lcOrbXobx3FY40Rm4vDRwMWE2c=
+		</data>
+		<key>Resources/next_track.png</key>
+		<data>
+		XCHOSc1EJg98+1DNzI65nTGJbtA=
+		</data>
+		<key>Resources/next_track@2x.png</key>
+		<data>
+		Tmp2/Vx9V8zuQ8/P2aJ2Qygz7GQ=
+		</data>
+		<key>Resources/next_track@3x.png</key>
+		<data>
+		xjXuq6VvwkqcWHZV1NePjfunkV0=
+		</data>
+		<key>Resources/prev_track.png</key>
+		<data>
+		gOeH27GKd+8oZIRvhEYTFWwrkKo=
+		</data>
+		<key>Resources/prev_track@2x.png</key>
+		<data>
+		2xMhkZHy84h8N2rRKZmtX18+uvM=
+		</data>
+		<key>Resources/prev_track@3x.png</key>
+		<data>
+		/PnUPDXitiZIZGnuVhLVrZWwyN4=
+		</data>
+		<key>Resources/repeat.png</key>
+		<data>
+		rsTcBD9gOsNvIg9/6RbrIwr4Tkk=
+		</data>
+		<key>Resources/repeat@2x.png</key>
+		<data>
+		1NBYrSa/h9Cp+dEVQpYizZGeK+M=
+		</data>
+		<key>Resources/repeat@3x.png</key>
+		<data>
+		7qPzPJG43kOyoTRP2tS/aIM1lco=
+		</data>
+		<key>Resources/shuffle.png</key>
+		<data>
+		i1YFAjCk6KV+2gBonvUEe0K0ttQ=
+		</data>
+		<key>Resources/shuffle@2x.png</key>
+		<data>
+		5tb1jrJoCIb32EQ/JabiTQNI84k=
+		</data>
+		<key>Resources/shuffle@3x.png</key>
+		<data>
+		6BRTbB3wacaPb9a+OYWbyvR/Eyc=
+		</data>
 		<key>Resources/swag.png</key>
 		<data>
 		i/DoFKFX5IJDsAWqaNEEUgmafwo=
+		</data>
+		<key>Resources/volume_icon.png</key>
+		<data>
+		TH9hEqfmjQrrkyO8UJMv3Q/ng5E=
+		</data>
+		<key>Resources/volume_icon@2x.png</key>
+		<data>
+		vK3RZOAwiLRTt+QJ01t2+kJeb2k=
+		</data>
+		<key>Resources/volume_icon@3x.png</key>
+		<data>
+		6u18h9u0lP1N3dXG3dssKatlZrw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -59,14 +223,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fs5u4l3jKkzGl4KE14ijwqgtI4QKy8JkG8Pi6xEWTFE=
+			EAchxYaV2cyb3fsI8YHI+KFtlxDk2zCHSFgxGAhgiKY=
 			</data>
 		</dict>
 		<key>MonoBundle/MP3_Player_Cs.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a4609iYkEZdWeG3J6ZFRau+3jafRzV5Z/B718YJTgFI=
+			eVjpzKdg4rxKSPj3hIBgW5Nahi/OSTofwWkJkv/nJ8g=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
@@ -1644,11 +1808,123 @@
 			ofBJ32oR6YnPrqwxD4Xfb1XaaoSV3KjFwBppm/bCnrc=
 			</data>
 		</dict>
+		<key>Resources/Images/button_play.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ik/4oskxh4eOoba5J4CIHgH9cfye4zfBwh6448a+AFU=
+			</data>
+		</dict>
+		<key>Resources/Images/button_play.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KS2sazc3Mk+dmeRlUdE7FneRa9+vKYQxj32tIhBTQKE=
+			</data>
+		</dict>
+		<key>Resources/Images/button_play_on_pause.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sFLg9P1MBl7p3xSsk+JjNW+HkYsXq8x5TQHVIK1Ykz8=
+			</data>
+		</dict>
+		<key>Resources/Images/button_play_pause.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fZhoqDHGbtCoO6Ywga13D/z1RG9Xed7hBR+S00jM2bk=
+			</data>
+		</dict>
+		<key>Resources/Images/full_screen.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tWUd7qc9EgmtwAAO4R5MTlVRnRS88VYaKGRAnG2Xo9U=
+			</data>
+		</dict>
+		<key>Resources/Images/full_screen.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FA4LRjCuHYs7l2JLHy2StS3p7tYKaLYSRpu7yhX8+uE=
+			</data>
+		</dict>
+		<key>Resources/Images/next_track.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9Zds6FcUhBedd500Rvq36tc92zN1wyAOmBgkmUigV8g=
+			</data>
+		</dict>
+		<key>Resources/Images/next_track.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Znm4FDSLWMCOI6CkkiV80KDuuQNn1o8vOSQKzv9Nmng=
+			</data>
+		</dict>
+		<key>Resources/Images/prev_track.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			miN5AgR/KWHBfDDwA9TL/1PH2qcCBpoUuD9PTsJoeAE=
+			</data>
+		</dict>
+		<key>Resources/Images/prev_track.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EOXPF02i+lwXcHL7dPiKQDpwEaVPr5FdXdagKpaLyiw=
+			</data>
+		</dict>
+		<key>Resources/Images/repeat.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m3tV1hYHFM4Z/9j2i2aXW9xHBGWTT2PVlMWo7HTTzrU=
+			</data>
+		</dict>
+		<key>Resources/Images/repeat.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cYTOmDTmcPDVtFYScqzA0PBUdm163gSagmtb8t9MTFQ=
+			</data>
+		</dict>
+		<key>Resources/Images/shuffle.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			q7IWMnCmKb8zCnT81hPY6SAdUoescUMbh0kJsq/N5Io=
+			</data>
+		</dict>
+		<key>Resources/Images/shuffle.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZBLWvXP+HGDsbsftr5XcrDM4scMvDcyKl+YsOkd2ykI=
+			</data>
+		</dict>
 		<key>Resources/Images/swag.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			pX8QGh27ZbVSU8qr4/PwwOsYLyoR9U2pZR1ai7R9JEk=
+			</data>
+		</dict>
+		<key>Resources/Images/volume_icon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AfGvYybSN1kqA2nKDqmtK/meI/Aw/PGMoba+W5Qjjnw=
+			</data>
+		</dict>
+		<key>Resources/Images/volume_icon.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gu/NH+RxWZ/9eqOI4tTVhqLasBYCYrlTOfA3mRy5sNY=
 			</data>
 		</dict>
 		<key>Resources/MauiInfo.plist</key>
@@ -1686,6 +1962,55 @@
 			sWx2RGKXFayNZoBkuBKZzXCOJxt1scnmh56P7sBWR7s=
 			</data>
 		</dict>
+		<key>Resources/button_play.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ik/4oskxh4eOoba5J4CIHgH9cfye4zfBwh6448a+AFU=
+			</data>
+		</dict>
+		<key>Resources/button_play@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ppe/Jyc7gxiVWGxiJH5BFHhcmitvOpFvWgKN043Cqho=
+			</data>
+		</dict>
+		<key>Resources/button_play@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HM3jz8X/BXsAlcpzjpdTErC3gdCBroPpHDKbygEoqdA=
+			</data>
+		</dict>
+		<key>Resources/button_play_on_pause.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ym817P9k4GhS3vZpEGJNlWLZpVSNfe28PT+ywoCR4e8=
+			</data>
+		</dict>
+		<key>Resources/button_play_on_pause@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			owmI54fy3fpYflJ25zj1SZ5sqJPWzSqirwtmnaKLpSw=
+			</data>
+		</dict>
+		<key>Resources/button_play_on_pause@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WD6FXJFiWh4kWNZeuRhHlHiK2L6ka/JkJDQ0wMgeA3U=
+			</data>
+		</dict>
+		<key>Resources/button_play_pause.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fZhoqDHGbtCoO6Ywga13D/z1RG9Xed7hBR+S00jM2bk=
+			</data>
+		</dict>
 		<key>Resources/dotnet_bot.png</key>
 		<dict>
 			<key>hash2</key>
@@ -1707,11 +2032,137 @@
 			ftZ//NybejiBqaUusNcnEH1SLkssxSWkkQlItM9ZxkA=
 			</data>
 		</dict>
+		<key>Resources/full_screen.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tWUd7qc9EgmtwAAO4R5MTlVRnRS88VYaKGRAnG2Xo9U=
+			</data>
+		</dict>
+		<key>Resources/full_screen@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Auylui0ctW6eCETd5yvVZhO0hTaeLiOSL4eb6KhMbVA=
+			</data>
+		</dict>
+		<key>Resources/full_screen@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			luY1KHTF74XUh823/b9jFxa8h/3lc3walQPeujWMVB0=
+			</data>
+		</dict>
+		<key>Resources/next_track.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9Zds6FcUhBedd500Rvq36tc92zN1wyAOmBgkmUigV8g=
+			</data>
+		</dict>
+		<key>Resources/next_track@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9Lv8taTbQdROqr9QOpkApP1l9dZQGfjmK7hn061tsEY=
+			</data>
+		</dict>
+		<key>Resources/next_track@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aPKzO0Jo6MdDTJNbAuPcX9eFRh9jVa47LUwMwx3TKbQ=
+			</data>
+		</dict>
+		<key>Resources/prev_track.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			miN5AgR/KWHBfDDwA9TL/1PH2qcCBpoUuD9PTsJoeAE=
+			</data>
+		</dict>
+		<key>Resources/prev_track@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			62KVrPsanEswLK2qadtAZKlNJEkJen9T3fVMoGCrukA=
+			</data>
+		</dict>
+		<key>Resources/prev_track@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bZuE+91Vhm+TEUROFHZbx33KzZ4ZHvUyC9OTB3S+O3s=
+			</data>
+		</dict>
+		<key>Resources/repeat.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m3tV1hYHFM4Z/9j2i2aXW9xHBGWTT2PVlMWo7HTTzrU=
+			</data>
+		</dict>
+		<key>Resources/repeat@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SMYxykIPYvTx2mzNL8umJlbb//9ppzgwqYoSFRD0Ds8=
+			</data>
+		</dict>
+		<key>Resources/repeat@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PwC0wVqNot2lOPeODQYjrDWWWZ7HGswEQVbGVUez5tE=
+			</data>
+		</dict>
+		<key>Resources/shuffle.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			q7IWMnCmKb8zCnT81hPY6SAdUoescUMbh0kJsq/N5Io=
+			</data>
+		</dict>
+		<key>Resources/shuffle@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Lc+9+2342liIQIuo6mb8qjoUQSSS8Tbn2y7oM/CQhIs=
+			</data>
+		</dict>
+		<key>Resources/shuffle@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WgfTEZoJN8AZtj/qJIo8M/9Jx9NkhvyqpQgW2ZCSbmc=
+			</data>
+		</dict>
 		<key>Resources/swag.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			pX8QGh27ZbVSU8qr4/PwwOsYLyoR9U2pZR1ai7R9JEk=
+			</data>
+		</dict>
+		<key>Resources/volume_icon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AfGvYybSN1kqA2nKDqmtK/meI/Aw/PGMoba+W5Qjjnw=
+			</data>
+		</dict>
+		<key>Resources/volume_icon@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RZS6qgxj+uIB4y8YxARovzgwdUVBffL6DxDcd+n65es=
+			</data>
+		</dict>
+		<key>Resources/volume_icon@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rZBKy9pK7d5TvJc6hT5C7Ol3Z9EN/R90eEiCgY8yvlo=
 			</data>
 		</dict>
 	</dict>

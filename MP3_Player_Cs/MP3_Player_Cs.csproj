@@ -50,9 +50,6 @@
 
 		<!-- Images -->
 		<MauiImage Include="Resources\Images\*" />
-		<MauiImage Update="Resources\Images\dotnet_bot.png" Resize="True" BaseSize="300,185" />
-
-		<!-- Custom Fonts -->
 		<MauiFont Include="Resources\Fonts\*" />
 
 		<!-- Raw Assets (also remove the "Resources\Raw" prefix) -->
@@ -66,9 +63,27 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <None Remove="Resources\Images\swag.png" />
+	  <None Remove="Resources\Images\" />
+	  <None Remove="Resources\Images\button_play.png" />
+	  <None Remove="Resources\Images\button_play_pause.png" />
+	  <None Remove="Resources\Images\full_screen.png" />
+	  <None Remove="Resources\Images\next_track.png" />
+	  <None Remove="Resources\Images\prev_track.png" />
+	  <None Remove="Resources\Images\repeat.png" />
+	  <None Remove="Resources\Images\shuffle.png" />
+	  <None Remove="Resources\Images\volume_icon.png" />
 	</ItemGroup>
 	<ItemGroup>
-	  <BundleResource Include="Resources\Images\swag.png" />
+	  <Folder Include="Resources\Images\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <BundleResource Include="Resources\Images\button_play.png" />
+	  <BundleResource Include="Resources\Images\button_play_pause.png" />
+	  <BundleResource Include="Resources\Images\full_screen.png" />
+	  <BundleResource Include="Resources\Images\next_track.png" />
+	  <BundleResource Include="Resources\Images\prev_track.png" />
+	  <BundleResource Include="Resources\Images\repeat.png" />
+	  <BundleResource Include="Resources\Images\shuffle.png" />
+	  <BundleResource Include="Resources\Images\volume_icon.png" />
 	</ItemGroup>
 </Project>

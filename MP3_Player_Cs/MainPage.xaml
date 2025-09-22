@@ -37,12 +37,13 @@
         <Slider Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="5" />
 
         <!-- PlayerBar -->
+        
         <Grid Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="3"
-          BackgroundColor="#333" Padding="10"
-          ColumnDefinitions="40,*,Auto,*,40,Auto,Auto"
-          HeightRequest="60"
-          HorizontalOptions="Center" VerticalOptions="Center">
-
+          BackgroundColor="#333" Padding="12"
+          ColumnDefinitions="62,*,Auto,*,62,Auto,Auto"
+          HeightRequest="80"        
+          HorizontalOptions="Center" VerticalOptions="Center"
+          >
             <Border MinimumWidthRequest="50"
                 MinimumHeightRequest="50"
                 MaximumWidthRequest="200"
@@ -56,24 +57,26 @@
                 <Image Source="swag.png"
                Aspect="AspectFit" />
             </Border>
-            <StackLayout Grid.Column="1" VerticalOptions="Center" Margin="10,0,0,0">
+            <StackLayout Grid.Column="1" VerticalOptions="Center" Margin="0,0,10,0">
                 <Label Text="Название" TextColor="White" FontSize="14" FontAttributes="Bold"/>
                 <Label Text="Исполнитель" TextColor="Gray" FontSize="12"/>
             </StackLayout>
 
             <HorizontalStackLayout Grid.Column="2" 
                          HorizontalOptions="Center" VerticalOptions="Center"
-                         Spacing="10">
-                <Button ImageSource="swag.png"/>
-                <Button Text="ZV" TextColor="White"/>
-                <Button ImageSource="swag.png"/>
+                         Spacing="5">
+                <Button ImageSource="prev_track.png" />
+
+                <Button ImageSource="button_play.png"/>
+                <Button ImageSource="next_track.png"/>
             </HorizontalStackLayout>
 
-            <HorizontalStackLayout Grid.Column="4" Grid.ColumnSpan="3"
-                          HorizontalOptions="End"
-                         VerticalOptions="Center" Spacing="15">
+            <HorizontalStackLayout Grid.Column="4" Grid.ColumnSpan="2"
+                          HorizontalOptions="Center"
+                         VerticalOptions="Center" Spacing="15" Margin="10,0,0,0">
                 <Label Text="1x" TextColor="White" VerticalOptions="Center"/>
-                <Button ImageSource="swag.png"/>
+                <Button ImageSource="volume_icon.png"/>
+                <Slider Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="5" />
             </HorizontalStackLayout>
         </Grid>
     </Grid>
