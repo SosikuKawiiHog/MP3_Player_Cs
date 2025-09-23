@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Resources/.DS_Store</key>
+		<data>
+		1EO9ApRiLClE64oh4BojKYXK7Io=
+		</data>
 		<key>Resources/AboutAssets.txt</key>
 		<data>
 		JEWZBKFIAeZ7rUyws4/gC5za0s8=
@@ -11,6 +15,10 @@
 		<key>Resources/Assets.car</key>
 		<data>
 		P/r8Qwe4zUcJIlVgiAeKCNFqMwo=
+		</data>
+		<key>Resources/Fonts/Roboto-Medium.ttf</key>
+		<data>
+		CLq1satHjoryJ5thPToyY2uFzGU=
 		</data>
 		<key>Resources/Images/button_play.png</key>
 		<data>
@@ -54,7 +62,7 @@
 		</data>
 		<key>Resources/Images/repeat.png</key>
 		<data>
-		rsTcBD9gOsNvIg9/6RbrIwr4Tkk=
+		IEWgTqGhi6SQPYaLE81Lwdg2PCY=
 		</data>
 		<key>Resources/Images/repeat.svg</key>
 		<data>
@@ -62,7 +70,7 @@
 		</data>
 		<key>Resources/Images/shuffle.png</key>
 		<data>
-		i1YFAjCk6KV+2gBonvUEe0K0ttQ=
+		cjhZpOKI5hOE/V8dT3qd1pWoH3A=
 		</data>
 		<key>Resources/Images/shuffle.svg</key>
 		<data>
@@ -82,7 +90,7 @@
 		</data>
 		<key>Resources/MauiInfo.plist</key>
 		<data>
-		iEtuUGCV6JM3gxS/pO33swhmpp8=
+		RHUbmmJbWChQkXmekWYph2lnjSk=
 		</data>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>
 		<data>
@@ -95,6 +103,10 @@
 		<key>Resources/OpenSans-Semibold.ttf</key>
 		<data>
 		Uzv96U036qbozZUxvVfz73AZABA=
+		</data>
+		<key>Resources/Roboto-Medium.ttf</key>
+		<data>
+		CLq1satHjoryJ5thPToyY2uFzGU=
 		</data>
 		<key>Resources/appicon.icns</key>
 		<data>
@@ -178,7 +190,7 @@
 		</data>
 		<key>Resources/repeat.png</key>
 		<data>
-		rsTcBD9gOsNvIg9/6RbrIwr4Tkk=
+		IEWgTqGhi6SQPYaLE81Lwdg2PCY=
 		</data>
 		<key>Resources/repeat@2x.png</key>
 		<data>
@@ -190,7 +202,7 @@
 		</data>
 		<key>Resources/shuffle.png</key>
 		<data>
-		i1YFAjCk6KV+2gBonvUEe0K0ttQ=
+		cjhZpOKI5hOE/V8dT3qd1pWoH3A=
 		</data>
 		<key>Resources/shuffle@2x.png</key>
 		<data>
@@ -223,14 +235,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EAchxYaV2cyb3fsI8YHI+KFtlxDk2zCHSFgxGAhgiKY=
+			ks/iEnlrD6ls4JJPdOKnxP82Z3xn1tz+/mbCGv/odNQ=
 			</data>
 		</dict>
 		<key>MonoBundle/MP3_Player_Cs.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eVjpzKdg4rxKSPj3hIBgW5Nahi/OSTofwWkJkv/nJ8g=
+			TMMFksTtmsv2A69+kif925t5mjc5wSHGhFfTMDXN7t4=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
@@ -1808,6 +1820,13 @@
 			ofBJ32oR6YnPrqwxD4Xfb1XaaoSV3KjFwBppm/bCnrc=
 			</data>
 		</dict>
+		<key>Resources/Fonts/Roboto-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hVkTLImtUdiiulsXGIekSnupN3biBfVTVz3iKOZLRfg=
+			</data>
+		</dict>
 		<key>Resources/Images/button_play.png</key>
 		<dict>
 			<key>hash2</key>
@@ -1882,7 +1901,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			m3tV1hYHFM4Z/9j2i2aXW9xHBGWTT2PVlMWo7HTTzrU=
+			kK+rU5Qbx28H4YOnzkhIvli68+JMZ+4Wc5HQwoQTHVs=
 			</data>
 		</dict>
 		<key>Resources/Images/repeat.svg</key>
@@ -1896,7 +1915,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			q7IWMnCmKb8zCnT81hPY6SAdUoescUMbh0kJsq/N5Io=
+			Qy9OY1zhUUTA4u6STQBSk+5Z2XlA+7phVofIg7BYp8I=
 			</data>
 		</dict>
 		<key>Resources/Images/shuffle.svg</key>
@@ -1931,7 +1950,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tx0KXqEC+DvcCGyogQTEQWHcCWJYYqH24NtPwhpQEjo=
+			0MnjMViCm10tXdw5iedvQuS/sF8CNTX7TkGMYTM1cvY=
 			</data>
 		</dict>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>
@@ -1953,6 +1972,13 @@
 			<key>hash2</key>
 			<data>
 			qpKiwlhQCso/HRSDZuTgcTwJEacDB7u4xDnr7sXsHRo=
+			</data>
+		</dict>
+		<key>Resources/Roboto-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hVkTLImtUdiiulsXGIekSnupN3biBfVTVz3iKOZLRfg=
 			</data>
 		</dict>
 		<key>Resources/appicon.icns</key>
@@ -2099,7 +2125,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			m3tV1hYHFM4Z/9j2i2aXW9xHBGWTT2PVlMWo7HTTzrU=
+			kK+rU5Qbx28H4YOnzkhIvli68+JMZ+4Wc5HQwoQTHVs=
 			</data>
 		</dict>
 		<key>Resources/repeat@2x.png</key>
@@ -2120,7 +2146,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			q7IWMnCmKb8zCnT81hPY6SAdUoescUMbh0kJsq/N5Io=
+			Qy9OY1zhUUTA4u6STQBSk+5Z2XlA+7phVofIg7BYp8I=
 			</data>
 		</dict>
 		<key>Resources/shuffle@2x.png</key>

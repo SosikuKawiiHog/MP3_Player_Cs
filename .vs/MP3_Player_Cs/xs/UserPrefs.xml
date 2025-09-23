@@ -1,23 +1,13 @@
 ﻿<Properties StartupConfiguration="{6FD502A0-E71E-4565-AD90-08A9B5D3B69F}|Default">
-  <MonoDevelop.Ide.ItemProperties.MP3__Player__Cs PreferredExecutionTarget="MyAppleMacCatalystID" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="MP3_Player_Cs/MainPage.xaml">
     <Files>
-      <File FileName="MP3_Player_Cs/MainPage.xaml" Line="21" Column="36" />
+      <File FileName="MP3_Player_Cs/MainPage.xaml" Line="43" Column="26" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MP3_Player_Cs">
-            <Node name="MP3_Player_Cs" expanded="True">
-              <Node name="MainPage.xaml" selected="True" />
-            </Node>
-          </Node>
+          <Node name="MP3_Player_Cs" expanded="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -25,5 +15,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MP3__Player__Cs PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
